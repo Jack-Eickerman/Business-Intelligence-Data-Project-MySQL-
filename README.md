@@ -1,4 +1,4 @@
-# Business-Intelligence-Data-Project-MySQL-
+# Business-Intelligence-Data-Project-MySQL
 Analysis of Landfill Data on MySQL 
 # US Landfills & LFG Projects – MySQL Table Schema for Tableau
 
